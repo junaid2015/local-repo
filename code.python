@@ -1,2 +1,4 @@
 print("this is my first program")
 print("hello world boy")
+print("main")
+end of loop
